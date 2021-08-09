@@ -4,7 +4,7 @@ Use this Python3 application to download list of executed Options from your Robi
 
 
 # How to Set Up Application
-  **1) Open Terminal and go to your project directory. Create a Python3 virtual environemt**
+  **1) Open Terminal and go to your project directory. Create a Python3 virtual enviroment.**
   
   **2) Install the robin_stocks API. This is used to interact with Robinhood's API.**
 
@@ -37,7 +37,7 @@ Use this Python3 application to download list of executed Options from your Robi
   
   ![Screenshot](https://github.com/nectariosouzou/RobinHoodOptionsCSVCreator/blob/main/Screen%20Shot%202021-08-09%20at%206.38.33%20PM.png)
   
-  **7) The data from the selectedOptionsFile.csv should now populate the table. Select column A and under Data toolbar look for the Stocks button. The current stock Price column should show live stock prices.**
+  **7) The data from the selectedOptionsFile.csv should now populate the table. Select column A and under Data toolbar look for the Stocks button. The current stock price column should show live stock prices.**
   
   
   
