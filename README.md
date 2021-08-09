@@ -22,6 +22,8 @@ Use this Python3 application to download list of executed Options from your Robi
    
   # Use  Generated CSV Files for importing to Excel Spreadsheet
   
+  **Download the optionTrading.xlsx file from this repo.**
+  
   **1) To import the CSV file in Excel go to Data -> Get External Data -> Import Text File.
   The newly created CSV file will be found in the same folder as the script named selectedOptionsFile.csv **
   
