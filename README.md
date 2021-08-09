@@ -39,7 +39,7 @@ Use this Python3 application to download list of executed Options from your Robi
   
   **7) The data from the selectedOptionsFile.csv should now populate the table. Select column A and under Data toolbar look for the Stocks button. The current stock price column should show live stock prices.**
   
- ![Screenshot](https://github.com/nectariosouzou/RobinHoodOptionsCSVCreator/blob/main/Screen%20Shot%202021-08-09%20at%207.49.52%20PM.png)
+ ![Screenshot](https://github.com/nectariosouzou/RobinHoodOptionsCSVCreator/blob/main/toolbarScreenshot.png)
   
   
   
