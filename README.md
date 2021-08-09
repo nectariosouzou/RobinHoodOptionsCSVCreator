@@ -20,3 +20,13 @@ Use this Python3 application to download list of executed Options from your Robi
    **Enter your account username and password in the login window. You will have to enter the verification code if necessary from the terminal window. Once you have succesfully logged in you can set the time period to return options for. This will create a CSV file that returns the specified options orders.**
    
   # Use  Generated CSV Files for importing to Excel Spreadsheet
+  
+  **1) To import the CSV file in Excel go to Data -> Get External Data -> Import Text File**
+  
+  **2) From the Text Import Wizard window select Delimited and Start import at row 2. Click next.**
+    
+  **3) Select comma under Delimiters and click next.**
+  
+  **4) Select the experiation_date column and change the data format to Date and select YMD format. Repeat for the order_created_at column. Click next.**
+  
+  **5) **
