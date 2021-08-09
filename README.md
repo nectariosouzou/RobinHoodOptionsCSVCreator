@@ -30,3 +30,5 @@ Use this Python3 application to download list of executed Options from your Robi
   **4) Select the experiation_date column and change the data format to Date and select YMD format. Repeat for the order_created_at column. Click next.**
   
   **5) **
+  
+  ![Screenshot](https://github.com/nectariosouzou/RobinHoodOptionsCSVCreator/blob/main/Screen%20Shot%202021-08-09%20at%206.38.33%20PM.png)
