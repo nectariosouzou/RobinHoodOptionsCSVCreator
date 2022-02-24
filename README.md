@@ -6,10 +6,12 @@ Use this Python3 application to download list of executed Options from your Robi
 # How to Set Up Application
   **1) Open Terminal and go to your project directory. Create a Python3 virtual enviroment.**
   
-  **2) Install the required dependencies from requirements.txt file.
+  **2) Install the required dependencies from requirements.txt file.**
+        
         `pip3 install -r requirements.txt`
   
-  **2) Run the application.    
+  **3) Run the application.**    
+        
         `$ python3 createOptionsCSV.py`
         
    **Enter your account username and password in the login window. You will have to enter the verification code if necessary from the terminal window. Once you have succesfully logged in you can set the time period to return options for. This will create a CSV file that returns the specified options orders.**
